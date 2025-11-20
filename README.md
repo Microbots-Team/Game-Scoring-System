@@ -25,12 +25,11 @@ The system includes:
 
 ---
 
-## 🌐 Connect with Us
-We’d love to connect and share insights!  
+## 👨‍💻 Contributors:
+Special thanks to : 
 
-
-- [Mohamad]()  
-- [Moamen]()  
+- **Mohammad Mohammad**  [LinkedIn](https://www.linkedin.com/in/mohammad-mohammad-93917a252/)
+- **Momen Defdaa**  [LinkedIn](https://www.linkedin.com/in/momen-defdaa-0a18a0258)  
 
 ---
 
