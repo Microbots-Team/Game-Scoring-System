@@ -1,5 +1,12 @@
 # 🎯 Game Scoring System
 
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – AI & Robotics Club Open Day
+- **Date:** November 10–11–12, 2025
+
 ## 💡 Project Overview
 The **Game Scoring System** is designed to manage visitor attendance and track scores during exhibitions or events.  
 Each visitor logs in via a unique **QR code**, allowing the system to record their participation and game performance.  
@@ -45,6 +52,24 @@ Special thanks to :
 - Mobile app integration  
 - Support for multiple events  
 - Enhanced analytics and data visualization  
+
+---
+## 📸 Screenshots
+
+<img src="images/1.png" alt="Screenshot">
+
+<img src="images/2.png" alt="Screenshot">
+
+<img src="images/3.png" alt="Screenshot">
+
+<img src="images/4.png" alt="Screenshot">
+
+<img src="images/5.png" alt="Screenshot">
+
+
+---
+## 📸 Demo
+**Coming soon!**
 
 ---
 
